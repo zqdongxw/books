@@ -8544,8 +8544,8 @@ function create_fragment$6(ctx) {
 					"url": "https://github.com/primocms/primo/blob/master/static/primologo.png?raw=true"
 				},
 				image: { "alt": "", "url": "" },
-				title: "Blog",
-				description: ""
+				title: "blog",
+				description: "test"
 			}
 		});
 
@@ -8556,8 +8556,8 @@ function create_fragment$6(ctx) {
 					"url": "https://github.com/primocms/primo/blob/master/static/primologo.png?raw=true"
 				},
 				image: { "alt": "", "url": "" },
-				title: "Blog",
-				description: "",
+				title: "blog",
+				description: "test",
 				logo: {
 					"image": {
 						"alt": "",
@@ -8586,8 +8586,8 @@ function create_fragment$6(ctx) {
 					"url": "https://github.com/primocms/primo/blob/master/static/primologo.png?raw=true"
 				},
 				image: { "alt": "", "url": "" },
-				title: "Blog",
-				description: "",
+				title: "blog",
+				description: "test",
 				heading: "a blog about content",
 				form: {
 					"endpoint": "https://formsubmit.co/your@email.com",
@@ -8620,13 +8620,13 @@ function create_fragment$6(ctx) {
 					"url": "https://github.com/primocms/primo/blob/master/static/primologo.png?raw=true"
 				},
 				image: { "alt": "", "url": "" },
-				title: "Blog",
-				description: "",
+				title: "blog",
+				description: "test",
 				heading: "Featured books",
 				items: [
 					{
 						"date": "June 3, 2023",
-						"link": { "url": "/blog-entry", "label": "圆悟心要校注" },
+						"link": { "url": "/blog/xinyao", "label": "圆悟心要校注" },
 						"thumbnail": {
 							"alt": "",
 							"src": "https://images.unsplash.com/photo-1682674396903-9d601f2bfe43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
@@ -8636,57 +8636,6 @@ function create_fragment$6(ctx) {
 						"description": {
 							"html": "<p>明尧 明洁 校注</p>",
 							"markdown": "明尧 明洁 校注\n\n"
-						}
-					},
-					{
-						"date": "August 12, 2023",
-						"link": {
-							"url": "http://localhost:5173/blog-entry",
-							"label": "10 essential tools every web developer should know"
-						},
-						"thumbnail": {
-							"alt": "",
-							"src": "https://images.unsplash.com/photo-1683002506825-2205b4fe4f53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2371&q=80",
-							"url": "https://images.unsplash.com/photo-1683002506825-2205b4fe4f53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2371&q=80",
-							"size": null
-						},
-						"description": {
-							"html": "<p>Stay ahead of the game with our roundup of the top 10 tools every web developer should have in their toolkit, from version control systems to browser extensions that boost productivity.</p>",
-							"markdown": "Stay ahead of the game with our roundup of the top 10 tools every web developer should have in their toolkit, from version control systems to browser extensions that boost productivity.\n\n"
-						}
-					},
-					{
-						"date": "September 12, 2023",
-						"link": {
-							"url": "http://localhost:5173/blog-entry",
-							"label": "The future of web design: exploring innovative trends & technologies"
-						},
-						"thumbnail": {
-							"alt": "",
-							"src": "https://images.unsplash.com/photo-1682968356839-e72de61bd076?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
-							"url": "https://images.unsplash.com/photo-1682968356839-e72de61bd076?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
-							"size": null
-						},
-						"description": {
-							"html": "<p>Get a glimpse of the future of web design as we discuss the latest trends, cutting-edge technologies, and groundbreaking ideas that are shaping the industry.</p>",
-							"markdown": "Get a glimpse of the future of web design as we discuss the latest trends, cutting-edge technologies, and groundbreaking ideas that are shaping the industry."
-						}
-					},
-					{
-						"date": "December 12, 2023",
-						"link": {
-							"url": "http://localhost:5173/blog-entry",
-							"label": "The Power of Minimalism in UI/UX Design"
-						},
-						"thumbnail": {
-							"alt": "",
-							"src": "https://images.unsplash.com/photo-1682795176020-1752b4446818?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2313&q=80",
-							"url": "https://images.unsplash.com/photo-1682795176020-1752b4446818?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2313&q=80",
-							"size": null
-						},
-						"description": {
-							"html": "<p>Discover the impact of minimalism in UI/UX design, and learn how to create clean, user-friendly interfaces that prioritize functionality and aesthetics.</p>",
-							"markdown": "Discover the impact of minimalism in UI/UX design, and learn how to create clean, user-friendly interfaces that prioritize functionality and aesthetics.\n\n"
 						}
 					}
 				]
@@ -8700,8 +8649,8 @@ function create_fragment$6(ctx) {
 					"url": "https://github.com/primocms/primo/blob/master/static/primologo.png?raw=true"
 				},
 				image: { "alt": "", "url": "" },
-				title: "Blog",
-				description: "",
+				title: "blog",
+				description: "test",
 				heading: "",
 				email: "",
 				social_links: [
@@ -8732,8 +8681,8 @@ function create_fragment$6(ctx) {
 					"url": "https://github.com/primocms/primo/blob/master/static/primologo.png?raw=true"
 				},
 				image: { "alt": "", "url": "" },
-				title: "Blog",
-				description: ""
+				title: "blog",
+				description: "test"
 			}
 		});
 

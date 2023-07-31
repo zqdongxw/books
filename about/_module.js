@@ -8345,7 +8345,7 @@ function create_fragment$6(ctx) {
 				},
 				title: "About my Blog",
 				description: "I'm a developer, designer, founder and everything in-between.",
-				heading: "Sign up to get weekly blog entires about X topic ",
+				heading: "Sign up to get weekly blog entires about X topic",
 				form: {
 					"endpoint": "https://formsubmit.co/your@email.com",
 					"placeholder": "Email address",
