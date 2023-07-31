@@ -8626,10 +8626,7 @@ function create_fragment$6(ctx) {
 				items: [
 					{
 						"date": "June 3, 2023",
-						"link": {
-							"url": "/blog-entry",
-							"label": "Mastering the art of responsive design: a comprehensive guide"
-						},
+						"link": { "url": "/blog-entry", "label": "圆悟心要校注" },
 						"thumbnail": {
 							"alt": "",
 							"src": "https://images.unsplash.com/photo-1682674396903-9d601f2bfe43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
@@ -8637,8 +8634,8 @@ function create_fragment$6(ctx) {
 							"size": null
 						},
 						"description": {
-							"html": "<p>This article dives into the nuts and bolts of coding web projects for clients. By the end of this article, you'll be ready to take on lots of projects.</p>",
-							"markdown": "This article dives into the nuts and bolts of coding web projects for clients. By the end of this article, you'll be ready to take on lots of projects.\n\n"
+							"html": "<p>明尧 明洁 校注</p>",
+							"markdown": "明尧 明洁 校注\n\n"
 						}
 					},
 					{
